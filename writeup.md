@@ -23,7 +23,7 @@ will be stored in the `output_images` folder.
 ### Writeup
 <mark>Provide a Writeup that includes all the rubric points and how you addressed each one.<mark>
 
-This `README.md` file is the required write-up document that explains the work for this project.
+This `writeup.md` file is the required write-up document that explains the work for this project.
 
 ---
 
