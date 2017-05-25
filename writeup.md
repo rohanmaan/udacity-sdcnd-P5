@@ -249,7 +249,7 @@ To optimize the performance of the classifier was a really tough trial and error
 ### Video Implementation
 <mark>Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)</mark>
 
-The video output can be found [here](./output_images/project_video.mp4).
+The youtube link to video output can be found ![here](https://youtu.be/FC9S25fODjA).
 
 The vehicles are detected most of the time although the bounding boxes are a bit unstable.
 Sometimes the white car is not tracked for a few frames especially at far distances. The main
